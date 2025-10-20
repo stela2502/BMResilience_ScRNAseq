@@ -43,12 +43,12 @@ pip install git+https://github.com/stela2502/ScanpyAutoAnalyzer.git
 This table documents **which script(s) generate each figure panel** in the manuscript.  
 Paths are relative to the repository root.
 
-| Figure / Panel | Primary Script(s) |
-|---|---|---|
-| **Figure 3 + 4 ** | [`python_scripts/Experiment2_from_raw_h5ad.ipynb`](python_scripts/Experiment1_from_raw_h5ad.ipynb) | 
-| **Figure 5 + 6 ** | [`python_scripts/Experiment3_from_raw_h5ad.ipynb`](python_scripts/Experiment2_from_raw_h5ad.ipynb) | 
-| **Figure 7 + 8 ** | [`python_scripts/Experiment1_from_raw_h5ad.ipynb`](python_scripts/Experiment1_from_raw_h5ad.ipynb) | 
-| **Figure 8 + 9 ** missing | [`R_scripts/Figure_8_9.R`](R_scripts/Figure_8_9.R) | 
+| Figure / Panel | Primary Script(s)
+|---|---|
+| Figure 3 + 4 | [`python_scripts/Experiment2_from_raw_h5ad.ipynb`](python_scripts/Experiment1_from_raw_h5ad.ipynb) 
+| Figure 5 + 6 | [`python_scripts/Experiment3_from_raw_h5ad.ipynb`](python_scripts/Experiment2_from_raw_h5ad.ipynb) 
+| Figure 7 + 8 | [`python_scripts/Experiment1_from_raw_h5ad.ipynb`](python_scripts/Experiment1_from_raw_h5ad.ipynb) 
+| Figure 8 + 9 missing | [`R_scripts/Figure_8_9.R`](R_scripts/Figure_8_9.R) 
 
 ---
 
